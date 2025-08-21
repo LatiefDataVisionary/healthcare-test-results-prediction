@@ -1,12 +1,11 @@
 # 🏥 Medical Test Results Prediction using Deep Learning
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![Framework](https://img.shields.io/badge/Framework-TensorFlow%20/%20Keras-orange)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Healthcare Banner](reports/figures/Deep_Learning_for_Healthcare_Prediction.png) 
 
 **Welcome to the Medical Test Results Prediction project. This repository is the capstone project for the "Deep Learning with Keras Python" course from BISA AI Academy. The primary objective is to build a Deep Neural Network (DNN) model capable of predicting a patient's medical test results (`Normal`, `Abnormal`, or `Inconclusive`) based on their demographic and clinical data.**
-
-[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Framework](https://img.shields.io/badge/Framework-TensorFlow%20/%20Keras-orange)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
