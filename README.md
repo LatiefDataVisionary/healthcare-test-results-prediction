@@ -17,7 +17,7 @@
 *   [Methodology](#-methodology)
 *   [Installation](#️-installation)
 *   [How to Run](#-how-to-run)
-*   [Results (Placeholder)](#-results)
+*   [Results and Performance Analysis](#-Results-and-Performance-Analysis)
 *   [License](#-license)
 
 ---
@@ -151,6 +151,7 @@ This finding is further corroborated by observing other public notebooks on Kagg
 3.  **Process Success:** From a process standpoint, this project successfully executed every stage of a professional machine learning workflow: data cleaning, feature engineering, a valid deep learning architecture, a correct training process, and transparent evaluation.
 
 In conclusion, despite the low predictive accuracy, this project successfully fulfilled its objective by demonstrating mastery of Deep Learning techniques with Keras and, more importantly, the ability to analyze and draw insightful conclusions from the results obtained.
+
 ---
 
 ## 📜 License
